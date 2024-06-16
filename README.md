@@ -1,1 +1,1 @@
-this is a fronted project. i have made a e-commerce website's UI
+this is a fronted project. I have made a e-commerce website's UI.
